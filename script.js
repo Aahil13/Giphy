@@ -16,12 +16,16 @@ function handleClick() {
         console.log(content.data);
         content.data.forEach(data => {
           console.log(data.images.downsized.url)
-          gifContainer.innerHTML += `<div class="gif-layout"><img src=${data.images.downsized.url} alt=${data.title}></div>`
+          gifContainer.innerHTML += `<div class="gif-layout"><a href="#" onclick="handleId()"><img src=${data.images.downsized.url} alt=${data.title}></a></div>`
         })
     })
     .catch(err =>{
         console.error(err)
     })
+}
+
+function handleId() {
+   window.location.href = 'singleGif.html'
 }
 
 
