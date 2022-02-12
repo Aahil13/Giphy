@@ -48,13 +48,37 @@ h4, p{
 }
 
 .gif-container img{
-    width: 300px;
+    width: 90%;
     height: 250px;
 }
 
 button:hover{
     cursor: pointer;
 }
+
+.Single-gif-container{
+    display: grid;
+    grid-template-rows: repeat(2, 1fr);
+    align-items: center;
+}
+
+.gif-details{
+    display: grid;
+    align-content: center;
+    margin: 0 .5rem;
+}
+
+.gif-details p{
+    word-break: break-all;
+    word-wrap: break-word;
+}
+
+.singleGif{
+    margin-top: 1rem;
+    max-width: 250px;
+    max-height: 500px;
+}
+
 
 @media(max-width: 963px){
     .gif-container{
