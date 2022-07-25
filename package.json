@@ -1,0 +1,25 @@
+{
+  "name": "giphy",
+  "version": "1.0.0",
+  "description": "giphy test",
+  "main": "script.js",
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aahil13/Giphy.git"
+  },
+  "author": "aahil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aahil13/Giphy/issues"
+  },
+  "homepage": "https://github.com/Aahil13/Giphy#readme"
+}

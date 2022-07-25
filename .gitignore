@@ -1,0 +1,5 @@
+#Secret files
+.env
+
+# Dependency
+node_modules/
