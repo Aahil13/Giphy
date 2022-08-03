@@ -23,6 +23,9 @@ Users should be able to:
 
 ### Screenshot
 
+![Capture9](https://user-images.githubusercontent.com/63567230/182707511-dea00bfb-9b2e-41a6-b8ca-258bea1b5d32.JPG)
+![Capture10](https://user-images.githubusercontent.com/63567230/182707534-4df075db-af2b-4860-ae9b-43e7f1093eb1.JPG)
+
 ### Links
 
 - Live Site URL: [Giphy]( https://aahil13.github.io/Giphy/)
