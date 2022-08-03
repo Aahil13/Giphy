@@ -15,3 +15,14 @@ Users should be able to:
 
 - Live Site URL: [Giphy]( https://aahil13.github.io/Giphy/)
 
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- JavaScript
+
+## Author
+
+- Frontend Mentor - [@Aahil13](https://www.frontendmentor.io/profile/Aahil13)
+- Twitter - [@OnyeanunaE](https://twitter.com/OnyeanunaE)
