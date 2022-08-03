@@ -11,3 +11,7 @@ Users should be able to:
 - Display giphy details in another page.
 - View the optimal layout for the app depending on their device's screen size
 
+### Links
+
+- Live Site URL: [Giphy]( https://aahil13.github.io/Giphy/)
+
