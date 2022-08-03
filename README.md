@@ -1,2 +1,4 @@
 # Giphy
-Basically a webpage that allows you to search and receive various gifs using the giphy API
+This is a fully responsive and functional web application that returns a giphy based on a query.
+
+
